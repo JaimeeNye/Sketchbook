@@ -1,8 +1,10 @@
+# Programs to install 
+
 ### Apps for MacOS 
 
 * Google Chrome
 * Opera GX
-* Sublime Text 4
+* VSCode
 * Iterm2
 * Xcode CLI tools
 * Iztope
@@ -22,8 +24,6 @@
 * Homebrew
 * oh-my-zsh
 * Vital
-
-
 * Ansible
 * AWSCli
 * Boto3
@@ -37,7 +37,7 @@
 	- Jekyll
 * Python 3
 * Node.js 
-	- Create-react-native
+	- create-next-app
 	- Yarn
 	- React Native
 		* Android Studio
