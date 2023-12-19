@@ -3,7 +3,6 @@
 ### Apps for MacOS 
 
 * Google Chrome
-* Opera GX
 * VSCode
 * Iterm2
 * Xcode CLI tools
@@ -12,13 +11,11 @@
 	* Vocal Doubler
 	* Ozone 10 Advanced
 	* RX 10 
-* Reaper
 * Logic Pro
 * Final Cut
-* Krita
-* Gimp
+* Photoshop
+* Zbrush
 * Blender
-* Inkscape
 * Transmssion
 * VLC
 * Homebrew
